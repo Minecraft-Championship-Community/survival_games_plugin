@@ -1,0 +1,7 @@
+name: Survival_games
+version: '${project.version}'
+main: mccc.survival_games.Survival_games
+api-version: 1.19
+prefix: MCCC Survival Games
+authors: [ GoracioNewport, AKSUM, i3Cheese ]
+description: First MCCC plugin!
